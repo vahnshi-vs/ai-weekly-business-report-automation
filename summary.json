@@ -1,0 +1,20 @@
+{
+  "week_start": "2026-05-11",
+  "week_end": "2026-05-17",
+  "previous_week_start": "2026-05-04",
+  "previous_week_end": "2026-05-10",
+  "total_revenue": 446285.89,
+  "previous_total_revenue": 477068.46,
+  "revenue_pct_change": -6.45,
+  "total_orders": 594,
+  "previous_total_orders": 632,
+  "orders_pct_change": -6.01,
+  "aov": 751.32,
+  "previous_aov": 754.86,
+  "aov_pct_change": -0.47,
+  "new_customers": 65,
+  "returning_customers": 103,
+  "pct_new_customers": 38.69,
+  "pct_returning_customers": 61.31,
+  "anomaly_days_count": 0
+}
