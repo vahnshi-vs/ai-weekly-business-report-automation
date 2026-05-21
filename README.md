@@ -8,7 +8,7 @@ This project was built to solve a real reporting problem that many teams face: t
 
 In many organizations, weekly reporting is still handled manually. That usually means downloading data, checking quality issues, preparing KPI summaries, writing a business update, and formatting the final report for stakeholders.
 
-This project automates that process from source data to final communication. It is designed as a beginner portfolio project, but it addresses a real-world business need: faster reporting, more consistent metrics, and less manual effort.
+This project automates that process from source data to final communication. It is designed as a project, but it addresses a real-world business need: faster reporting, more consistent metrics, and less manual effort.
 
 ## Business Problem
 
