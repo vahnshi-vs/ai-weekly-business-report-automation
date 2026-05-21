@@ -97,11 +97,13 @@ flowchart LR
 
 ### Weekly Dashboard
 
-![Weekly Dashboard](./assets/dashboard.png)
+<img width="392" height="1069" alt="dashboard" src="https://github.com/user-attachments/assets/4a64ac24-4094-4096-8ab9-921a7d21908c" />
+
 
 ### Email Report Output
 
-![Email Report Output](./assets/email_report.png)
+<img width="1600" height="732" alt="email_report" src="https://github.com/user-attachments/assets/53c40463-6e17-49b8-9184-cda0934bae69" />
+
 
 ## Project Structure
 
