@@ -54,7 +54,7 @@ At a high level, the workflow is:
 4. Build the weekly KPI summary.
 5. Generate an AI business report.
 6. Prepare and send the final email update.
-7. Run the full workflow in one go through the main pipeline.
+7. It automatically runs every monday.
 
 ## Full Architecture
 
@@ -232,12 +232,12 @@ The full workflow can be executed as a single pipeline.
 
 - This reduces manual effort further.
 - It supports repeatable reporting.
-- It also supports scheduled execution every Friday.
+- It also supports scheduled execution every Monday.
 
 **How this was done:**
 - `main_pipeline.py` is used as the main execution entry point.
 - `run_pipeline.bat` supports one-click Windows execution.
-- Windows Task Scheduler can trigger the process automatically every Friday.
+- Windows Task Scheduler can trigger the process automatically every Monday.
 
 ## Run the Project Locally
 
@@ -269,12 +269,6 @@ On Windows:
 
 ```bash
 .venv\Scripts\activate
-```
-
-On Mac/Linux:
-
-```bash
-source .venv/bin/activate
 ```
 
 ### 5. Install dependencies
