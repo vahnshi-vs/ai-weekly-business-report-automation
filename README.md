@@ -79,7 +79,7 @@ flowchart TD
     E --> G[HTML and Markdown Report]
     F --> G
     G --> H[Email Delivery]
-    H --> I[Friday Automation via Task Scheduler]
+    H --> I[Monday Automation via Task Scheduler]
 ```
 
 ## Simple Process Diagram
